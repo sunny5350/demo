@@ -6,5 +6,7 @@ Java Coding
 HTML Coding
 .net Coding
 
+python coding
+UI coding
 
 Thank You :-)
